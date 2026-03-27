@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**jlh28145/jlh28145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer / SDET focused on building scalable quality systems.
 
-Here are some ideas to get you started:
+I specialize in:
+- Automation architecture
+- CI/CD-integrated testing
+- Deterministic test design
+- System-level debugging tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Featured Projects
+
+- **KTC-Webscraping**  
+  CI/CD-enabled ETL pipeline with pytest validation and SQLite persistence
+
+- **ADB Bug Report Tool**  
+  System-level debugging utility for Android/embedded workflows
