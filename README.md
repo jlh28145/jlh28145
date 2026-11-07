@@ -91,24 +91,6 @@ A command-line Android diagnostics utility that automates artifact collection fo
 
 ---
 
-### [KTC Web Scraping](https://github.com/jlh28145/KTC-Webscraping)
-
-A CI/CD-enabled ETL pipeline that collects dynasty fantasy football ranking data and stores historical records for analysis.
-
-**Highlights**
-
-- Modular extract, transform, and load architecture
-- SQLite persistence
-- Deterministic pytest validation
-- Scheduled GitHub Actions workflows
-- Automated linting and coverage enforcement
-- Command-line execution and logging
-- Historical data collection
-
-**Technologies:** Python, Selenium, Pytest, SQLite, GitHub Actions
-
----
-
 ## 🚧 Current Engineering Focus
 
 I am currently expanding my portfolio around three areas:
